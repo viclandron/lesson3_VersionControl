@@ -5,16 +5,16 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+September 29, 2017
 
 ## Student Name:  
-(First and Last Name)
+Victoria Landron
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, we learned how to use Git by setting up a local and remote repository for our files and how all these aspects work together to keep your files updated, backed up, and available to work on collaboratively
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned about how valuable Git is to working on a project collaboratively as it stores all versions of a file/project making it easy to track the progress as well as allowing others to be able to access all these files.
+2. The local repository is used to store all the files locally on ones computer and temporary versions have not yet been published to the Internet.
+3. The remote repository stores all the files that have been saved to the Internet and is what allows multiple to work on the same files. 
 
